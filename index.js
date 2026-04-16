@@ -71,7 +71,7 @@ async function sendMessage(to, text) {
 async function askGemini(userMessage, conversationHistory) {
   try {
     const model = genAI.getGenerativeModel({
-      model: "gemini-1.5-flash-latest",
+      model: "gemini-2.0-flash",
       systemInstruction: buildSystemPrompt(),
     });
 
