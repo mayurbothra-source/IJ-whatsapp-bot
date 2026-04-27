@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "property": "Indo Japan House",
+    "location": "Salt Lake Sector 5, Kolkata",
+    "unit": "Ground Floor - South Side Back Block",
+    "type": "Office",
+    "furnishing": "Bare Shell",
+    "area": 2200,
+    "rent": 120000,
+    "status": "Available",
+    "floor": "Ground",
+    "amenities": ["Car Park", "Ladies & Gents Toilet", "Pantry"],
+    "description": "Ground floor bare shell unit in the South Side Back Block. Suitable for retail or office use with car parking and essential facilities.",
+    "mapLink": "https://maps.google.com/?q=Indo+Japan+House+Salt+Lake+Sector+5+Kolkata"
+  },
+  {
+    "id": 2,
+    "property": "Indo Japan House",
+    "location": "Salt Lake Sector 5, Kolkata",
+    "unit": "1st Floor - South Side Back Block",
+    "type": "Office",
+    "furnishing": "Bare Shell",
+    "area": 2400,
+    "rent": 100000,
+    "status": "Available",
+    "floor": 1,
+    "amenities": ["Car Park", "Ladies & Gents Toilet", "Pantry"],
+    "description": "1st floor bare shell unit in the South Side Back Block. Open plan space ideal for corporates looking to fit out to their own specifications.",
+    "mapLink": "https://maps.google.com/?q=Indo+Japan+House+Salt+Lake+Sector+5+Kolkata"
+  },
+  {
+    "id": 3,
+    "property": "Indo Japan House",
+    "location": "Salt Lake Sector 5, Kolkata",
+    "unit": "2nd Floor - South Side Front Block",
+    "type": "Office",
+    "furnishing": "Semi-Furnished",
+    "area": 2000,
+    "rent": 100000,
+    "status": "Available",
+    "floor": 2,
+    "amenities": ["Car Park", "Ladies & Gents Toilet", "Pantry"],
+    "description": "2nd floor semi-furnished unit in the South Side Front Block. Includes 4 cabins, reception, 60 workstations and cafeteria. Ready to move in.",
+    "mapLink": "https://maps.google.com/?q=Indo+Japan+House+Salt+Lake+Sector+5+Kolkata"
+  }
+]
